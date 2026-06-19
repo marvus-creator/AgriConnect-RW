@@ -1,0 +1,17 @@
+# Secrets — never commit API keys
+includes/ai_config.php
+includes/momo_config.php
+includes/sms_config.php
+
+# Composer dependencies
+/vendor/
+
+# Uploaded user content
+/uploads/profiles/*
+/uploads/products/*
+!/uploads/profiles/.gitkeep
+!/uploads/products/.gitkeep
+
+# Project archive — not needed in the repo
+AgriConnect-RW.zip
+*.zip
