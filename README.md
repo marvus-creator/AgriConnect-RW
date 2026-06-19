@@ -6,6 +6,25 @@ AgriConnect reduces market-access barriers, minimizes post-harvest losses, impro
 
 ---
 
+## 📸 Screenshots
+
+### 🚚 Live GPS delivery tracking — real map, real distance & ETA, live driver position
+![Live GPS tracking](screenshots/04-live-tracking.png)
+
+| 🧠 AI Market Advisor (Farmer dashboard) | 🛒 Marketplace |
+|:---:|:---:|
+| ![Farmer dashboard with AI Advisor](screenshots/02-farmer-dashboard.png) | ![Marketplace](screenshots/03-marketplace.png) |
+
+| 💸 MoMo transaction history | 🚚 Driver jobs with load-pooling |
+|:---:|:---:|
+| ![MoMo transactions](screenshots/05-momo-transactions.png) | ![Driver load-pooling](screenshots/06-driver-pooling.png) |
+
+| 🌍 Landing page | 📟 USSD (works on basic phones) |
+|:---:|:---:|
+| ![Landing page](screenshots/01-landing.png) | ![USSD simulator](screenshots/07-ussd.png) |
+
+---
+
 ## ✨ Features
 
 | Area | What it does |
